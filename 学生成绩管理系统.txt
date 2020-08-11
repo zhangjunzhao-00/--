@@ -2,7 +2,7 @@ import re
 
 
 def menu():
-    print('请输入数字1-5选择功能：')
+    print('请输入数字1-5来选择功能：')
     print('1.学生成绩录入')
     print('2.学生成绩修改')
     print('3.查询学生成绩')
